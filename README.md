@@ -9,7 +9,7 @@ ___
 
 ## Live Demo
 
-- **Live Deployed Link:-**<a href="https://reactoperator.netlify.app/" target="_blank"></a>
+- **Live Deployed Link:-** <a href="https://reactoperator.netlify.app/" target="_blank">Live</a>
 
 ## Features
 
