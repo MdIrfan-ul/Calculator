@@ -1,8 +1,15 @@
 # Calculator Using React.js
-
+___
+![Project Screenshot](Screenshot.png)
+___
 ## Overview 
 
 A simple Calculator created using React.js
+___
+
+## Live Demo
+
+- **Live Deployed Link:-**<a href=""><a>
 
 ## Features
 
@@ -15,6 +22,8 @@ A simple Calculator created using React.js
 
 - **React.js:** Front-end JavaScript library for building user interfaces.
 - **CSS Modules:** Modular CSS files scoped locally to each component.
+
+___
 
 ## Installation
 
@@ -42,3 +51,9 @@ To run this project locally, follow these steps:
 npm start
 ```
 5. Open your browser and navigate to http://localhost:3000 to view the application.
+
+___
+
+Developed with ❤️ by [Mohamed Irfanullah M]
+
+___
