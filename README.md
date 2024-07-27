@@ -11,6 +11,8 @@ ___
 
 - **Live Deployed Link:-** <a href="https://reactoperator.netlify.app/" target="_blank">Live</a>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a84f4bd6-8f33-4d84-bcc0-836a9750652b/deploy-status)](https://app.netlify.com/sites/reactoperator/deploys)
+
 ## Features
 
 - Perform Arithmetic Operations like Addition, Subtraction, Multiplication and Division.
