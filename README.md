@@ -1,6 +1,6 @@
 # Calculator Using React.js
 ___
-![Project Screenshot](Screenshot.png)
+![Project Screenshot](ScreenShot.png)
 ___
 ## Overview 
 
@@ -9,7 +9,7 @@ ___
 
 ## Live Demo
 
-- **Live Deployed Link:-**<a href=""><a>
+- **Live Deployed Link:-**<a href="https://reactoperator.netlify.app/" target="_blank"></a>
 
 ## Features
 
